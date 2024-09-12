@@ -1,4 +1,4 @@
-package lexicon.se.impl;
+package lexicon.se.data.impl;
 
 import lexicon.se.data.People;
 import lexicon.se.helper.MySQLConnection;

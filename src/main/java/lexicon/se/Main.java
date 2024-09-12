@@ -1,8 +1,8 @@
 package lexicon.se;
 import lexicon.se.data.ToDoItems;
 import lexicon.se.data.People;
-import lexicon.se.impl.PeopleImpl;
-import lexicon.se.impl.TodoItemImpl;
+import lexicon.se.data.impl.PeopleImpl;
+import lexicon.se.data.impl.TodoItemImpl;
 import lexicon.se.model.Person;
 import lexicon.se.model.TodoItem;
 
